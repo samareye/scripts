@@ -70,4 +70,4 @@
 
 # Translate
 Phoenicis scripts are localized using Crowdin: https://crowdin.com/project/phoenicis-scripts
-If your language is not listed, please create an [issue](https://github.com/PhoenicisOrg/scripts/issues).
+If your language is not listed, please create an [issue](https://github.com/PhoenicisOrg/scripts).
